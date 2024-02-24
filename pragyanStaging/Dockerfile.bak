@@ -1,0 +1,3 @@
+From openjdk:8
+copy target/pragyan-1.0.war pragyan-1.0.war
+CMD ["java","-jar","pragyan-1.0.war"]
