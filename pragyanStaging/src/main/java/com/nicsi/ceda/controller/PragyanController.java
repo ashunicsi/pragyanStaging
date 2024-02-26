@@ -16,6 +16,6 @@ public class PragyanController
 	public String pragyan1()
 	{
 		System.out.println("Test");
-		return "";
+		return ""; 
 	}
 }
