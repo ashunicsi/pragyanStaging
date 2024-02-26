@@ -17,5 +17,5 @@ public class PragyanController
 	{
 		System.out.println("Test");
 		return ""; 
-	}
+	}  
 }
