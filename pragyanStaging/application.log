@@ -7763,3 +7763,15 @@ java.io.FileNotFoundException: C:\Users\NIC\.m2\repository\org\apache\xmlgraphic
 2024-02-24 22:31:45.658  INFO 11476 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: getLogDataUsingGET_1
 2024-02-24 22:31:45.666  INFO 11476 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: viewSchemeUsingGET_2
 2024-02-24 22:31:45.714  INFO 11476 --- [main] c.n.c.CedaApplication                    : Started CedaApplication in 13.125 seconds (JVM running for 15.021)
+2024-02-26 10:39:31.528  INFO 11476 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2024-02-26 10:39:31.808  INFO 11476 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.StandardService                  : Stopping service [Tomcat]
+2024-02-26 10:39:31.866  INFO 11476 --- [RMI TCP Connection(2)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-26 10:39:31.877  INFO 11476 --- [RMI TCP Connection(2)-127.0.0.1] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown initiated...
+2024-02-26 10:39:31.886  INFO 11476 --- [RMI TCP Connection(2)-127.0.0.1] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown completed.
+2024-02-26 10:39:38.459  INFO 13708 --- [main] c.n.c.CedaApplication                    : Starting CedaApplication using Java 1.8.0_202 on DESKTOP-216HB9V with PID 13708 (C:\Users\NIC\git\repository\pragyanStaging\target\classes started by NIC in C:\Users\NIC\git\repository\pragyanStaging)
+2024-02-26 10:39:38.471  INFO 13708 --- [main] c.n.c.CedaApplication                    : No active profile set, falling back to 1 default profile: "default"
+2024-02-26 10:39:39.976  INFO 13708 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-26 10:39:40.352  INFO 13708 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 362 ms. Found 45 JPA repository interfaces.
+2024-02-26 10:39:41.059  INFO 13708 --- [main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 2222 (http)
+2024-02-26 10:39:41.078  INFO 13708 --- [main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2024-02-26 10:39:41.079  INFO 13708 --- [main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.65]
