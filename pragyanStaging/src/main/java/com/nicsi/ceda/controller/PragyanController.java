@@ -12,4 +12,10 @@ public class PragyanController
 		System.out.println("Test");
 		return "";
 	}
+	@GetMapping
+	public String pragyan1()
+	{
+		System.out.println("Test");
+		return "";
+	}
 }

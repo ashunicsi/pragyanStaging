@@ -16324,3 +16324,8 @@ java.io.FileNotFoundException: C:\Users\NIC\.m2\repository\org\apache\xmlgraphic
 2024-02-26 10:39:51.494  INFO 13708 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: getLogDataUsingGET_1
 2024-02-26 10:39:51.499  INFO 13708 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: viewSchemeUsingGET_2
 2024-02-26 10:39:51.545  INFO 13708 --- [main] c.n.c.CedaApplication                    : Started CedaApplication in 13.648 seconds (JVM running for 15.768)
+2024-02-26 11:05:50.511  INFO 13708 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2024-02-26 11:05:50.750  INFO 13708 --- [RMI TCP Connection(2)-127.0.0.1] o.a.c.c.StandardService                  : Stopping service [Tomcat]
+2024-02-26 11:05:50.817  INFO 13708 --- [RMI TCP Connection(2)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-26 11:05:50.821  INFO 13708 --- [RMI TCP Connection(2)-127.0.0.1] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown initiated...
+2024-02-26 11:05:50.830  INFO 13708 --- [RMI TCP Connection(2)-127.0.0.1] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown completed.
