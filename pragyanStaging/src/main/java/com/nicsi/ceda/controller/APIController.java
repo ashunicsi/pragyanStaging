@@ -127,7 +127,7 @@ public class APIController
 			 {
 				 jsonobj.put("sectorName",s.getSector_Name_r());
 			 }
-			//System.out.println(jsonobj);
+			//System.out.println(jsonobj); 
 			 levelList.put(jsonobj);
 		}
 		
